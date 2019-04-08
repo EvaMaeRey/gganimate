@@ -20,7 +20,7 @@
 #' - **circular** Models a pi/2 circle arc
 #' - **exponential** Models an exponential function
 #' - **elastic** Models an elastic release of energy
-#' - **back** Models a pullback and relase
+#' - **back** Models a pullback and release
 #' - **bounce** Models the bouncing of a ball
 #'
 #' *Modifiers* \cr
